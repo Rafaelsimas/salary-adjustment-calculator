@@ -46,6 +46,7 @@ body{
 .container{
     width: 90%;
     margin-inline: auto;
+    max-width: 800px;
 }
 
 .container .box-top{
