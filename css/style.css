@@ -56,7 +56,7 @@ body{
 
 
 .container .box-top .box-inputs{
-    margin-top: 66px;
+    margin-top: 46px;
  display: flex;
  flex-direction: column;
  
@@ -92,4 +92,15 @@ transition: 0.3s ease-in-out;
 
 .container .box-top .box-inputs .result{
     line-height: 50px;
+}
+
+.footer-assign{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footer-assign strong{
+    color: var(--hover-color);
 }
